@@ -10,7 +10,7 @@ public class HelloTest {
     public void testHello() {
         Hello hello = new Hello();
 
-        assertEquals("Hello from OpenShift!", hello.sayHello());
+        assertEquals("Hello Telecom from OpenShift!", hello.sayHello());
     }
 
 }
