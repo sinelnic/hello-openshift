@@ -6,6 +6,6 @@ import javax.enterprise.context.Dependent;
 public class Hello {
 
     public String sayHello() {
-        return "Hello from OpenShift!";
+        return "Hello Telecom from OpenShift!";
     }
 }
